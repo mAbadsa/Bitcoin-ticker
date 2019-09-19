@@ -3,6 +3,10 @@
 > Bitcoin ticker is a simple application to fetch **BTC**, **ETH**,**LTC** and **BCH** price from **bitcoinaverage** *api* service.
 Simple project for training on *nodeJs*, *express*, and *api* service
 
+    
+To visit **Bitcoin-Ticker** web site click this link *[Bitcoin-ticker](https://abadsa-bitcoin-ticker.herokuapp.com/ "https://abadsa-bitcoin-ticker.herokuapp.com/")*
+
+
 ****
 ### In this project you will learn about
 
