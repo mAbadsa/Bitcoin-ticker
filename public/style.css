@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #252525;
+}
+
+.container {
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	background-color:#353535;
+	max-width: 1150px;
+	text-align: center;
+}
